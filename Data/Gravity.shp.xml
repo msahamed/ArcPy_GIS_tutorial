@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey, Central Energy Resources Team</origin>
+				<pubdate>20010501</pubdate>
+				<title>Bouguer Gravity Anomaly Map of Bangladesh (grav8bg)</title>
+				<geoform>Downloadable GIS Data</geoform>
+				<lworkcit>
+					<citeinfo>
+						<origin>Persits, F.M., Wandrey, C.J., Milici, R.C., Manwar A.</origin>
+						<origin>Amy S. Karshbaum</origin>
+						<origin>Roland J. Viger</origin>
+						<pubdate>2001</pubdate>
+						<title>Digital Geologic and Geophysical Data of Bangladesh</title><geoform>Digital Maps</geoform>
+						<serinfo>
+							<sername>U.S. Geological Survey Open-File Report</sername>
+							<issue>OFR-97-470-H</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470H/</onlink>
+						<othercit>
+Geologic and Geophysical Data of Bangladesh is one of a series of
+CD-ROMs presenting digital geologic maps of the world published by
+the U.S. Geological Survey.
+</othercit>
+					</citeinfo>
+				</lworkcit>
+				<onlink>http://energy.cr.usgs.gov/oilgas/wep</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+This coverage includes arcs and arc labels that hold the Bouguer Gravity
+anomaly value for contours and type contours of the original map of
+Bangladesh with the same name.
+</abstract>
+			<purpose>
+To delineate contour lines of Bouguer Gravity Anomaly in Bangladesh. This
+shapefile was also used in an ArcExplorer project. The data provide
+government, geological community, consultants, and the general public with
+an important geological base for a small scale natural resource surveys,
+exploration and analysis.
+</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2001</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>Date of publication</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Not Planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>87.984932</westbc>
+				<eastbc>92.926903</eastbc>
+				<northbc>26.733309</northbc>
+				<southbc>20.552744</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Gravity</themekey>
+				<themekey>Geophysics</themekey>
+				<themekey>Anomaly</themekey>
+				<themekey>Gravimetric survey</themekey>
+				<themekey>Oil</themekey>
+				<themekey>Gas</themekey>
+				<themekey>Digital map</themekey>
+			</theme>
+			<theme>
+				<themekt>ArcIMS Metadata Server Theme Codes Thesaurus</themekt>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<theme>
+				<themekt>USGS Energy Program Themes Thesaurus</themekt>
+				<themekey>Earth Science</themekey>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>USGS</themekey>
+				<themekey>Geology</themekey>
+				<themekey>Oil</themekey>
+				<themekey>Natural Gas</themekey>
+				<themekey>Petroleum</themekey>
+				<themekey>Resource Assessment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Bangladesh</placekey>
+				<placekey>South Asia</placekey>
+			</place>
+			<place>
+				<placekt>USGS Energy Program Petroleum Assessment Units</placekt>
+				<placekey>Ganges-Brahmaputra Delta, Province 8047</placekey>
+				<placekey>Permian Coal, Total Petroleum System 804701</placekey>
+				<placekey>Jalangi-Sylhet/Burdwan Composite, Total Petroleum System 804702</placekey>
+				<placekey>Jenam/Bhuban-Bokabil, Total Petroleum System 804703</placekey>
+				<placekey>Tertiary Composite Total Petroleum System</placekey>
+				<placekey>South Asia, Region 8</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>
+Portions of this database covering coastline and country boundaries contain
+intellectual property of Environmental Systems Research Institute, Inc.
+(ESRI), and are used with their permission. End users are permitted to use
+these data sets for their own internal use, including derivative work, but
+are prohibited from using and redistributing these data individually or in a
+derivative work to third parties. Please refer to the "ATTACHMENT B" file
+(attach_b.txt) in the permssn directory of this CD-ROM for further
+information on ESRI's license agreement. ESRI is a registered trademark in
+the United States and either a trademark or registered trademark in all
+other countries where it is used, and ArcExplorer, Arc/Info, Arcview and
+Arcworld are trademarks of Environmental Systems Research, Inc.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+					<cntper>Feliks Persits</cntper>
+				</cntorgp>
+				<cntpos>GIS Contractor</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+U.S. Geological Survey Energy Resource Team, Box 25046, Denver Federal
+Center, MS 939
+</address>
+					<city>Denver</city>
+					<state>Colorado</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-236-3612</cntvoice>
+				<cntemail>fpersits@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>UNIX, ArcInfo 8.0.2 Windows 2000, Arcview 3.2</native>
+		<browse><browsen>http:\\certmapper.cr.usgs.gov\data\we\ofr97470h\graphic\grav8bg.jpg</browsen><browset>JPEG</browset></browse>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+All the attributes other than standard Arc/Info attributes are of
+character type.
+- Attribute item "Bouguer" was abstracted from contour labels on source
+maps denoting Bouguer Gravity field value. Contour interval is 2 mGal.
+- Attribute item "TYPE" was added to simplify selection of major contours
+(those which are 10 multiples).
+- Standard verification of attribute reliability was performed by coloring
+each level and comparing it with image of original contour maps.
+- Plots were created of the coverage, colored and labeled by item
+"Bouguer" at the same scale, projection and map extent of the source maps
+for the purposes of review and examination. Review was conducted by
+persons uninvolved in the compilation.
+- The values were also examined by compiling  a shaded relief map and
+drawing contours over that image (see separate view).
+</attraccr>
+		</attracc>
+		<logic>
+Has been made by comparison of shaded relief image and theme with original
+contours (b_gravg.shp). All shaded relief anomalies correspond to contour
+label values.
+</logic>
+		<complete>
+This map has been compiled from M.A. Rahman, (Geological Survey of
+Bangladesh), M.A. Mannan, (Bangladesh Petroleum Exploration Company), H. R.
+Blank, M.D. Kleinkopf, and R. P. Kucks, (United States Geological Survey),
+1990, Bouguer Gravity Anomaly Map of Bangladesh: Geological Survey of
+Bangladesh Publication, scale 1:1,000,000.
+1. Original map was scanned on large format Ideal scanner in color mode with
+resolution 200 dpi.
+2. The scanned image was transformed to Lambert Conformal projection by
+ArcInfo REGISTER and RECTIFY utilities.
+3. Reference points for transformation were latitude-longitude crosses taken
+from paper map compared with the same crosses projected to Lambert in
+ArcInfo PROJECT utility. Overall RMS error of transformation was 250 m (0.25
+mm on original paper map).
+4. On-screen digitization was performed using color rectified image as a
+backdrop in ArcInfo ARCEDIT.
+5. Bouguer gravity values in mGal were assigned to "Bouguer" item of Arc
+Attribute Table (AAT) of ArcInfo coverage.
+6. Base map data layers - rivers, lakes, cities were digitized as separated
+coverages.
+7. All the ArcInfo coverages were converted into .E00 files, then imported
+to ArcView by IMPORT 71 utility and saved as shape files.
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+1. Original map is of 100 m. maximum accuracy (0.1 mm on paper map of
+1:1,000,000 scale)
+2. Scanned images are of 200 dot/inch resolution (0.1 mm on paper).
+Therefore fuzzy tolerance in ARC/INFO wss set to 300 meters (three
+pixels).
+3. Several steps were taken to vectorize scanned images as follows:
+3.1. A latitude/longitude grid with cell size 1 * 1 degree was projected
+to Lambert Conformal Conic projection and then used to create an
+ARC/INFO point coverage. That point coverage was used as a reference for
+ArcInfo REGISTER and RECTIFY programs. Overall RMS error was 250m. The
+vectorized coverage was edited and attributed in Arcedit using the color
+image of the source map as a background guide.
+3.2. Line attributing of the ARC/INFO coverage was verified and
+corrected by comparing it with the color image as a background. ESRI's
+ArcWorld 1:3M data set is too small in scale for position accuracy
+estimation since original map was of 1: 1,000,000 scale, but for
+estimating relative positional accuracy such a comparison has been
+performed. Overall relative position error was estimated by randomly
+selecting a set of locations on the ESRI World country coverage and the
+state boundaries on the final geology coverage (b_geo). RMS error is 0.9
+km (0.9 mm of the original paper map).
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>Not Applicable</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Geological Survey of Bangladesh</origin>
+						<pubdate>1990</pubdate>
+						<title>Bouguer Gravity Anomaly Map of Bangladesh</title>
+						<edition>N/A</edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Bhutatta Rhaban, 153 Pioneer Road, Segun Bagicha, Dhaka,1000</pubplace>
+							<publish>Geological Survey of Bangladesh</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Bouguer Gravity Anomaly</srccitea>
+				<srccontr>Gravity field contour values.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+1. Original map was scanned on large format Ideal scanner in color mode
+with resolution 200 dpi.
+2. The scanned image was transformed to Lambert Conformal projection by
+ArcInfo REGISTER and RECTIFY utilities.
+3. Reference points for transformation were latitude-longitude crosses
+taken from paper map and compared with the same crosses projected to
+Lambert in ArcInfo PROJECT utility. Overall RMS error of transformation
+was 250 m (0.25 mm on original paper map).
+</procdesc>
+				<procdate>200009</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Arcs and labels were digitized on screen in Arcedit with a fuzzy
+tolerance of 300 meters and a weed tolerance of 100 meters, using the
+color image as a background guide. Features less than 200 meters in
+length or width were not captured. Features crossing the edges of
+original map source were adjusted to be continuous despite discrepancies
+in image registration and compilation between separate original map
+sheets.
+</procdesc>
+				<procdate>2000910</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Bouguer gravity attributes were assigned to "Bouguer" item of Arc
+Attribute Table (AAT) of b_grav coverage. Type of contours was assigned
+to "Type" item.
+</procdesc>
+				<procdate>20000921</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Duplicate and missing labels were identified with the table query in
+ArcInfo.
+</procdesc>
+				<procdate>20000925</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The master coverage was built as a line coverage.</procdesc>
+				<procdate>20000926</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Paper maps were plotted from Arcplot at the same scale and extent as the
+original map sources and distributed with the original map source sheets
+to be examined for the purposes of content review.
+</procdesc>
+				<procdate>20001100</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+The master coverage was edited in Arcedit, according to the results of
+the content reviews, adding or deleting arcs and labels as needed, and
+updating the attribution of labels as needed.
+</procdesc>
+				<procdate>20001105</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The master coverage was built as a line coverage.</procdesc>
+				<procdate>20001110</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The master coverage was projected to the current Geographic coordinates.</procdesc>
+				<procdate>20001115</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+The projected coverage was built with a fuzzy tolerance of 0.002
+degrees.
+</procdesc>
+				<procdate>20001115</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+The projected coverage was clipped to the current extent as a line
+coverage.
+</procdesc>
+				<procdate>20001120</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Coverage was converted to Arcview shapefile in Arcview 3.2.</procdesc>
+				<procdate>19990215</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Text area on original map was scanned in gray-scale mode with resolution
+200 dpi. Tiff image was split into several pieces to accomodate logical
+legend parts.
+</procdesc>
+				<procdate>20010300</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Additional theme "grav_txt.shp" has been added to the view with six
+rectangles. Each rectangle was assigned by value of items "text" and
+"path". Item "text" used to label rectangle. Item "path" was populated
+by full path names pointed to locations of corresponding images with
+text.
+</procdesc>
+				<procdate>
+20010310
+</procdate>
+			</procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>
+12332
+</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.002</latres>
+				<longres>0.002</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Theme in internet map service - "grav8bg.shp"</enttypl>
+				<enttypd>Bouguer Gravity Map of Bangladesh</enttypd>
+				<enttypds>Geological Survey of Bangladesh</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>type</attrlabl>
+				<attrdef>Types of "Bouguer" items field contour values.</attrdef>
+				<attrdefs>USGS</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1,2</edomv>
+						<edomvd>
+1 - regular values
+2 - values as multiples of 10
+</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bouguer</attrlabl>
+				<attrdef>Bouguer gravity anomaly values in mGal.</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-168</rdommin>
+						<rdommax>10</rdommax>
+						<attrunit>mGal</attrunit>
+						<attrmres>
+2
+</attrmres>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey Earth Science Information Center (ESIC)</cntorg>
+				</cntorgp>
+				<cntpos>N/A</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>U.S.Geological Survey, Box 25286,, Building 810, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225-0286</postal>
+					<country>U.S.A.</country>
+				</cntaddr>
+				<cntvoice>303.202.4200</cntvoice>
+				<cntemail>infoservices@usgs.gov</cntemail>
+				<hours>8:00 am - 4:00 pm MST</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>
+No warranty, expressed or implied, is made by the U.S. Geological Survey
+regarding the correctness of the data, or of the utility of the data in any
+computer system, nor shall the act of distribution constitute any such
+warranty.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<transize>124 KB</transize></digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>CD-ROM</offmedia>
+						<recfmt>ISO 9660</recfmt>
+						<compat>
+ISO 9660 format allows the CDROM to be read by most computer
+operating systems.
+</compat>
+					</offoptn><onlinopt><computer><networka><networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470h/spatial/shape/grav8bg.zip</networkr></networka></computer></onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcInfo Export File</formname>
+					<formvern>8.0</formvern>
+					<formcont>Bouguer gravity grid</formcont>
+					<transize>126 KB</transize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470h/spatial/export/grav8bge.zip</networkr></networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Image Map Service (WorldBangladesh)</formname>
+					<formvern>4.0.1</formvern>
+					<formspec>ArcIMS Image Map Service</formspec>
+					<formcont>A web-based interactive mapping system that accesses an ArcIMS Map Service running on certmapper.cr.usgs.gov</formcont>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/pubs/servlet/MapViewerBroker?Service=WorldBangladesh&amp;OVMap=WorldBangladesh_overview&amp;project=world</networkr>
+								<networkr/></networka>
+						</computer>
+						<accinstr>This URL links to a web-based interactive mapping system that accesses an ArcIMS Image Map Service that runs in Netscape 4.7, Internet Explorer 4.5 and higher.  The mapservice can also be accessed using any custom client that adheres to the protocol specified through ArcXML.</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>This product can be downloaded individually using any one of the digital form, Network_Resource_Name URLs above. Each of these URLs may provide access to various formats of the same product.  To order CD-ROM contact USGS Earth Science Information Center 1-800-USA-MAPS.
+</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>19990207</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resource Team</cntorg>
+					<cntper>Feliks Persits</cntper>
+				</cntorgp>
+				<cntpos>GIS Contractor</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>U.S. Geological Survey, Box 25046, MS 939, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>Colorado</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-236-3612</cntvoice>
+				<cntemail>datamgt@usgs.gov</cntemail>
+				<cntinst>For inquiries regarding this document, please include the metadata contact person's name, dataset name, and publication series and number.</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metrd>20040618</metrd>
+	</metainfo><Esri><ModDate>20040621</ModDate><ModTime>12142900</ModTime><CreaDate>20130209</CreaDate><CreaTime>14354000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20130209" Time="143540">Project grav8bg E:\Gravity\Gravity.shp PROJCS['WGS_1984_UTM_Zone_46N',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',93.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] # GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="135944">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp ref_ID LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="140304">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp physics LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="140304">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp chemistry LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="140536">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="141631">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="141806">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Name LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp first LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp second LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp third LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Physics LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Math LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142109">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Chemistry LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142347">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp first LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142347">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp second DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142348">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp third TEXT # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142348">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Physics SHORT # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142348">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Math DATE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="142348">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp Chemistry LONG # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20150628" Time="143057">DeleteField C:\GISLectures\Lectures\Cursor\Gravity.shp Math</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20150628" Time="143652">DeleteField C:\GISLectures\Lectures\Cursor\Gravity.shp first</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20150628" Time="143837">DeleteField C:\GISLectures\Lectures\Cursor\Gravity.shp second;third;Physics;Chemistry</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="150013">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 2+3 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="150400">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber() PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="150558">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber() PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="153141">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="153420">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="153528">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="153623">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="153926">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 "def addNUmber(field):\n	if field &lt; 5 :\n		return 0\n	else :\n		return 10 "</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="154011">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 "def addNUmber(field):\n	if field &lt; 5 :\n		return field *10\n	else :\n		return 10 "</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="154046">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber(!TYPE!) PYTHON_9.3 "def addNUmber(field):\n	if field &lt; 5 :\n		return field *10\n	else :\n		return field*10 "</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="175030">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 3+4 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="175320">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="175320">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 3+4 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="180632">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="180633">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 3+4 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="180808">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="180808">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name a VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="180848">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="180848">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name a VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="180920">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="180920">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 20 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="180944">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="180944">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name 20 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="181007">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="181007">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name a VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="181031">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="181105">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="181120">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="181120">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name "sin(10) + cos(25)" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="181230">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp name DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="181516">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp name addNUmber() PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="183137">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp physics DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="183138">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp physics 3+4 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="183227">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp physics DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="183227">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp physics sin(10) VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150628" Time="183408">AddField C:\GISLectures\Lectures\Cursor\Gravity.shp physics DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150628" Time="183408">CalculateField C:\GISLectures\Lectures\Cursor\Gravity.shp physics a PYTHON_9.3 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150705" Time="151515">CalculateField Gravity physics "Abs ( [BOUGUER] )" VB #</Process></lineage></DataProperties></Esri><mdDateSt Sync="TRUE">20040621</mdDateSt></metadata>
